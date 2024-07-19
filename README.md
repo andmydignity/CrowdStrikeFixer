@@ -4,7 +4,7 @@ A Linux ISO that attemps delete the Crowd Strike faulty driver file
 First off, i've never used CrowdStrike so idk which areas its used in, so this ISO may not be appropriate for this problem.
 
 Requirements:
--Access to the bootloader
+Access to the bootloader
 
     A USB drive
 
@@ -25,3 +25,7 @@ That's basicly it. It sadly has no output on the screen (i made this midnight ma
 Script seems to work in file deleting aspect but idk if it will fix the problem
 
 Here is the link to the repo: GitHub It runs the fixer.sh script (/etc/systemd/system/delete_crowdstrike.sh in the iso) 
+
+
+Donation:
+https://www.buymeacoffee.com/semihaslan
